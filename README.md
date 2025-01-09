@@ -1,6 +1,6 @@
 # Online Shop (Frontend)
 
-A React Native mobile application that allows users to browse a collection of clothes, add items to a cart, and manage their selections. This project demonstrates the frontend implementation of a mobile shopping app, showcasing a seamless user interface and smooth navigation.
+A React Native mobile application that allows users to browse a collection of clothes, add items to a cart, and manage their selections. This project demonstrates the frontend implementation of a mobile shopping app.
 
 ## --Features--
 

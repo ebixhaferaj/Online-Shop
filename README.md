@@ -30,7 +30,7 @@ npm install
 
 Start the development server:
 npx react-native run-android
-# or
+OR
 npx react-native run-ios
 
 --Project Structure--
